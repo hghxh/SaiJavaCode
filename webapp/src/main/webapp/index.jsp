@@ -1,4 +1,4 @@
 <h1> Hello Dear Students!! Welcome to DevOps Project-2!! </h1>
 <h2> By Mr. Sai from Saidemy!! </h2>
-<h2> hello soumya hw is ur doing </h2>
+<h2> Get Ready to do Project-2</h2>
 
